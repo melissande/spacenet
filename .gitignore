@@ -1,3 +1,5 @@
 SPACENET_DATA/
 test_preprocess_ghana/
 test_preprocess_spacenet/
+.ipynb_checkpoints
+__pycache__
